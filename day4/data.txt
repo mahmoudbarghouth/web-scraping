@@ -1,0 +1,166 @@
+job_title ,company ,company_location ,job_time ,experience_needed 
+Mechanical Design Engineer (Low Voltage Panels),ALDAWLIA  -,6th of October, Giza, Egypt,Full Time,· 2 - 8 Yrs of Exp
+Senior Mechanical Design Engineer,Confidential -,New Cairo, Cairo, Egypt,Full Time,· 8 - 12 Yrs of Exp
+MEP Tendering Engineer (HVAC and Mechanical Systems),MAABANY  -,Cairo, Egypt,Full Time,· 3 - 6 Yrs of Exp
+Mechanical Engineer,International Food & Consumable Goods - Egypt S.A.E -,6th of October, Giza, Egypt,Full Time,· 3 - 4 Yrs of Exp
+Mechanical BIM engineer,CBD Project Package 7 of CSCEC (Egypt)   -,New Capital, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Mechanical Engineer,Lecico Egypt -,Alexandria, Egypt,Full Time,· 0 - 3 Yrs of Exp
+Mechanical Engineer,Hyundai Rotem -,Port Said, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Technical Office Engineer Mechanical - Power (Infrastructure - Wastewater),Nasr City For Trading and Contracting (NCTC) -,Nasr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Technical Office Engineer.,Confidential -,Cairo, Egypt,Full Time,· 3 - 15 Yrs of Exp
+Mechanical Technical Office Engineer,North point -,Haram, Giza, Egypt,Full Time,· 1 - 5 Yrs of Exp
+Mechanical Site Engineer,Mobco Civil Construction -,New Cairo, Cairo, Egypt,Full Time,· 8 - 12 Yrs of Exp
+Senior Mechanical Design Engineer,HIEC -,Dokki, Giza, Egypt,Full Time,· 10 - 12 Yrs of Exp
+Mechanical Site Engineer,The WaterWay Developments  -,New Cairo, Cairo, Egypt,Full Time,· 4 - 10 Yrs of Exp
+Site Mechanical Engineer,Confidential -,6th of October, Giza, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Mechanical Technical Office Engineer,RAQMU for Building and Construction  -,Cairo, Egypt,Full Time,· 3 - 7 Yrs of Exp
+Mechanical Engineer (Air Conditioning and Fire Systems) (technical office &site),Elmallah for Engineering and contracting company  -,Maadi, Cairo, Egypt,Full Time,· 5 - 15 Yrs of Exp
+Mechanical Engineering,Integrated-ltd -,Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Senior Mechanical Technical Office Engineer,GTCI Constructors  -,Heliopolis, Cairo, Egypt,Full Time,· 5 - 8 Yrs of Exp
+Senior Mechanical Procurement Engineer,New Plan  -,Sheraton, Cairo, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Tendering Engineer – Mechanical,EEC Group -,Sheraton, Cairo, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Mechanical Technical Office Engineer,Organo Group -,6th of October, Giza, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Technical Office Engineer,TECTRA -,New Cairo, Cairo, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Senior Mechanical Installation Engineer,Egyptian Starch and Glucose  Manufacturing Company -,Musturad, Qalubia, Egypt,Full Time,· 5 - 8 Yrs of Exp
+Site Mechanical Engineer (Light current - Fire Fighting),Capital Guard -,Sheraton, Cairo, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Senior Mechanical Design Engineer "HVAC & Firefighting And Plumbing"",Q Design -,Maadi, Cairo, Egypt,Full Time,· 8 - 13 Yrs of Exp
+Mechanical Maintenance Engineer (Agricultural Equipment),NILEWOOD  -,Monufya, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Technical Office Engineer,New Plan  -,Sheraton, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Mechanical Senior Engineer - Facility,Smart Villages Development & Managment Company -,Abu Rawash, Giza, Egypt,Full Time,· 4 - 6 Yrs of Exp
+Mechanical_Engineer (HVAC) (Design),Orient Egypt -,Dokki, Giza, Egypt,Full Time,· 3 - 7 Yrs of Exp
+Mechanical Production Engineer (Food or Drinks Background),Milkys - The Milkman -,Noubaria, Beheira, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical engineer for (electrical panels),Total Air -,Helwan, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Engineer,MG Developments -,Nasr City, Cairo, Egypt,Full Time,· 9 - 12 Yrs of Exp
+Mechanical Maintenance Engineer - Intern,ICON Holding -,Helwan, Cairo, Egypt,Internship,Engineering
+Mechanical Design Engineer - Water Treatment,Confidential -,Nasr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Senior Mechanical Technical Office Engineer,Urbnlanes  -,New Cairo, Cairo, Egypt,Full Time,· 5+ Yrs of Exp
+Mechanical or Electrical Engineer,Middle East for Plastic -,10th of Ramadan City, Sharqia, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Mechanical BIM Engineer,Square Engineering Firm -,Madinaty, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Engineer (Heavy Equipment),Sinoma-cdi -,Salam City, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Technical Office Engineer,Sharm Dreams Group -,Cairo, Egypt,Full Time,· 5+ Yrs of Exp
+Senior Technical Office Mechanical Engineer,TRAVCO GROUP -,Sheikh Zayed, Giza, Egypt,Full Time,· 4 - 10 Yrs of Exp
+Mechanical Technical Office Engineer,Khaled Sabry Developments  -,New Cairo, Cairo, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Mechanical Technical Office Engineer,Global Energy For Investment and Industry -,Giza, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Design Engineer,Vital Konzept -,Maadi, Cairo, Egypt,Full Time,· 4 - 7 Yrs of Exp
+Mechanical Site Engineer,Vital Konzept -,Sheikh Zayed, Giza, Egypt,Full Time,· 7+ Yrs of Exp
+BIM Engineer/Mechanical MEP,COLAS RAIL Egypt -,Abdeen, Cairo, Egypt,Full Time,· 4 - 5 Yrs of Exp
+Junior Mechanical Procurement Engineer,Modern Controls  -,Giza, Egypt,Full Time,· 1 - 4 Yrs of Exp
+Mechanical Engineer,Alaqssa -,Darnah, Libya,Full Time,· 5 - 5 Yrs of Exp
+Junior Mechanical Production Engineer,Medineeds -,Marg, Cairo, Egypt,Full Time,· 0 - 2 Yrs of Exp
+Mechanical Engineer,Power House Egypt -,6th of October, Giza, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Senior Mechanical Technical Office Engineer,The WaterWay Developments  -,New Cairo, Cairo, Egypt,Full Time,· 4 - 7 Yrs of Exp
+HSE Manager (Mechanical Engineer),Confidential -,Mokattam, Cairo, Egypt,Full Time,· 8 - 10 Yrs of Exp
+Mechanical Site Engineer,Aswaq -,Shorouk City, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Technical Office Engineer,Al-Alama Contracting & Supplies   -,6th of October, Giza, Egypt,Full Time,· 6 - 9 Yrs of Exp
+Mechanical Design Engineer - Sheet Metal,Power Solutions -,6th of October, Giza, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Design Engineer (Product development Engineer),Arcelormittal Egypt -,Badr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Design Engineer,grfn   -,Zamalek, Cairo, Egypt,Full Time,· 3 - 7 Yrs of Exp
+Procurement Engineer - Mechanical Power,Nasr City For Trading and Contracting (NCTC) -,Nasr City, Cairo, Egypt,Full Time,· 2+ Yrs of Exp
+Junior Mechanical Design Engineer,CSI -,Heliopolis, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Senior Mechanical Design Engineer,CSI -,Heliopolis, Cairo, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Technical Office Mechanical Engineer,Nasr City For Trading and Contracting (NCTC) -,Nasr City, Cairo, Egypt,Full Time,· 2 - 3 Yrs of Exp
+Mechanical Maintenance Engineer (injection Mold),Confidential -,6th of October, Giza, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Senior Mechanical Site Engineer,New Plan  -,New Cairo, Cairo, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Service Mechanical Engineer (Air Blowers and Compressors),Confidential -,Obour City, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Tender Mechanical Engineer,Atwar Al Kon -,Mokattam, Cairo, Egypt,Full Time,· 5 - 9 Yrs of Exp
+Mechanical Maintenance Engineer (Dairy or Drinks Background),Milkys - The Milkman -,Noubaria, Beheira, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Design Engineer,Confidential -,Heliopolis, Cairo, Egypt,Full Time,· 0 - 4 Yrs of Exp
+Mechanical Engineer (Water Supply Infrastructure Project),DIAMOND ALLIANCE SERVICES  -,Kano, Nigeria,Full Time,· 5+ Yrs of Exp
+Senior Mechanical Procurement Engineer,GMC Contracting -,Nasr City, Cairo, Egypt,Full Time,· 10 - 15 Yrs of Exp
+Maintenance Engineer – Mechanical / Electrical,Confidential -,khanka, Qalubia, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Mechanical Technical Office Engineer,Tiba Developments -,6th of October, Giza, Egypt,Full Time,· 5 - 8 Yrs of Exp
+Electrical or Mechanical Maintenance Engineer (Facility Management) 2,EME -,Sohag, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Electrical or Mechanical Maintenance Engineer (Facility Management),EME -,Alexandria, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Maintenance Engineer,Confidential -,10th of Ramadan City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Engineer,INDEVCO -,6th of October, Giza, Egypt,Full Time,· 2 - 3 Yrs of Exp
+Mechanical Engineer - Escalator And Elevator,Beverlyhills -,Shorouk City, Cairo, Egypt,Full Time,· 4 - 6 Yrs of Exp
+Automotive Mechanical Engineer,Yemeni Cafe -,Obour City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Engineer,Jazeera Paints -,10th of Ramadan City, Sharqia, Egypt,Full Time,· 3+ Yrs of Exp
+Mechanical Engineer Section Head,Modern Hygienic international -,Ain Sokhna, Suez, Egypt,Full Time,· 7 - 10 Yrs of Exp
+Fire Alarm & FireFighting Mechanical Engineer,Elero -,6th of October, Giza, Egypt,Full Time,· 1 - 1 Yrs of Exp
+Mechanical Design Engineer,ATRIC Developments -,Heliopolis, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Jr. Technical office Engineer (Mechanical / Electrical),GMC Contracting -,Nasr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Maintenance Engineer,Masria Digital Payment (MDP) -,10th of Ramadan City, Sharqia, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Mechanical Design Engineer,EgyptianEuropean -,6th of October, Giza, Egypt,Full Time,· 3+ Yrs of Exp
+Mechanical Engineer,CUD   -,Cairo, Egypt,Full Time,· 4 - 6 Yrs of Exp
+Mechanical Maintenance Engineer,Zewail City -,6th of October, Giza, Egypt,Full Time,· 4 - 6 Yrs of Exp
+Electro-Mechanical Engineer,Alrawaf Contracting -,Jeddah, Saudi Arabia,Full Time,· 3+ Yrs of Exp
+Mechanical Maintenance Engineer Intern,ICON Holding -,Helwan, Cairo, Egypt,Internship,· 0 - 1 Yrs of Exp
+Mechanical Service Engineer (Mobile Services) ( Automotive),MATGR For Engineering And Trading -,New Cairo, Cairo, Egypt,Full Time,· 2 - 7 Yrs of Exp
+Mechanical Power Engineer,Uniboard  -,Alsadat City, Monufya, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Maintenance Engineer,GlassRock Insulation Co. -,Alsadat City, Monufya, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Electro Mechanical Engineer,special group  -,Mohandessin, Giza, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Engineer,Holw El Sham -,6th of October, Giza, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Technical Office Engineer,MM contracting and supplying  -,Cairo, Egypt,Full Time,· 7 - 12 Yrs of Exp
+Senior Sales Engineer - (Mechanical Power),Nasr City For Trading and Contracting (NCTC) -,Nasr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Senior Mechanical Technical Office Engineer,Magaz -,New Cairo, Cairo, Egypt,Full Time,· 3 - 8 Yrs of Exp
+Mechanical Systems BIM Engineer,ECO-AKS -,Garden City, Cairo, Egypt,Full Time,· 5+ Yrs of Exp
+Mechanical Engineering Manager (Concrete Mix Plant),Modern Structures & Equipment  -,Wosta, Beni Suef, Egypt,Full Time,· 10 - 15 Yrs of Exp
+Mechanical Engineer – Technical Office & site,Effort -,Heliopolis, Cairo, Egypt,Full Time,· 4 - 9 Yrs of Exp
+Junior Workshop Electro-Mechanical Engineer (Maintenance) - Automotive,Confidential -,Obour City, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Supervision Engineer (Consultant),ECO-AKS -,Garden City, Cairo, Egypt,Full Time,· 5+ Yrs of Exp
+Senior Site Mechanical Engineer,Genedy Construction -,Maadi, Cairo, Egypt,Full Time,· 7+ Yrs of Exp
+Maintenance Mechanical Fresh Engineer,Modern Hygienic international -,Ain Sokhna, Suez, Egypt,Full Time,· 0 - 1 Yrs of Exp
+Mechanical Section Head,Farcomake for Advanced Medical Industries -,Bourj Alarab, Alexandria, Egypt,Full Time,· 5 - 10 Yrs of Exp
+Mechanical Technical Office Engineer – "Water and Sewage Plant",Hexa Recruitment -,Nasr City, Cairo, Egypt,Full Time,· 5+ Yrs of Exp
+Senior Mechanical Technical Office Engineer,CSI -,Heliopolis, Cairo, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Maintenance Engineer (Electrical & Mechanical),Confidential -,6th of October, Giza, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Senior Mechanical Engineer,Confidential -,Riyadh, Saudi Arabia,Full Time,· 8 - 10 Yrs of Exp
+Site Mechanical Engineer,Cosmos -,Marsa Matruh, Matruh, Egypt,Full Time,· 5 - 10 Yrs of Exp
+Senior Mechanical Engineer,Wadi Group -,Sheikh Zayed, Giza, Egypt,Full Time,· 2 - 3 Yrs of Exp
+Technical Office Mechanical Engineer,MG  -,Nasr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Mechanical Design Engineer,Aquarabia -,10th of Ramadan City, Sharqia, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Senior Mechanical-Site Engineer,Raafat Miller Consulting -,Giza, Egypt,Full Time,· 9 - 12 Yrs of Exp
+Workshop Engineer,National Company For Maize Products -,10th of Ramadan City, Sharqia, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Lead Plumbing & Fir Fighting Engineer,Afniah Consulting Engineering  -,Heliopolis, Cairo, Egypt,Full Time,· 15 - 20 Yrs of Exp
+Technical Office Engineer,Leeds -,Nasr City, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Procurement Engineer,Giza Cable Industries -,6th of October, Giza, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Tendering Estimation Engineer,Byld APR Construction -,Heliopolis, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Sales Engineer /10th of Ramadan,Obegi Chemicals -,10th of Ramadan City, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Sales Engineer,Obegi Chemicals -,Maadi, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Production Engineer - Plastic and Printing,Mamiba  -,6th of October, Giza, Egypt,Full Time,· 1 - 2 Yrs of Exp
+Production Engineer,Kama Manufacturing -,10th of Ramadan City, Sharqia, Egypt,Full Time,· 2 - 3 Yrs of Exp
+Production Engineer,Zahranco Engineering Trade -,6th of October, Giza, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Technical Office Engineer -Quantity Surveying,MM contracting and supplying  -,Cairo, Egypt,Full Time,· 5 - 10 Yrs of Exp
+Senior SolidWorks Engineer,EAST  -,Maadi, Cairo, Egypt,Full Time,· 5+ Yrs of Exp
+Procurement Engineer,MCV -,Obour City, Cairo, Egypt,Full Time,· 0 - 3 Yrs of Exp
+Project Equipment Engineer,Saint-Gobain -,Ain Sokhna, Suez, Egypt,Freelance / Project,· 4 - 7 Yrs of Exp
+Process Engineer,Fine Hygienic Holding -,6th of October, Giza, Egypt,Full Time,· 1 - 3 Yrs of Exp
+BIM Engineer,COLAS RAIL Egypt -,6th of October, Giza, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Mechanical Maintenance Engineer Section Head,Royal Herbs  -,Haram, Giza, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Junior Process Engineer,Mamiba  -,6th of October, Giza, Egypt,Full Time,· 0 - 1 Yrs of Exp
+Sales Engineer – Alexandria Based,Confidential -,Alexandria, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Engineering & Projects Director - FMCG Manufacturing,Al monairy -,10th of Ramadan City, Cairo, Egypt,Full Time,· 15 - 20 Yrs of Exp
+Sales Engineer,Egypt for Panel and Steel Industries S.A.E -,6th of October, Giza, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Operation Engineer - Cairo,pharmastar -,Obour City, Cairo, Egypt,Full Time,· 2 - 3 Yrs of Exp
+Mechanical Maintenance Supervisor,EVA Cosmetics   -,6th of October, Giza, Egypt,Full Time,· 5 - 10 Yrs of Exp
+Tender & Procurement Engineer,Elero -,6th of October, Giza, Egypt,Full Time,· 1 - 2 Yrs of Exp
+Technical Sales Engineer,Unitech -,Giza, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Senior Piping Stress & Support Engineer,PGESCo  -,Cairo, Egypt,Full Time,· 5 - 8 Yrs of Exp
+Estimation Engineer,Aresco for Manufacturing & Industrial Projects -,Tebin, Cairo, Egypt,Full Time,· 2+ Yrs of Exp
+Electrical Site Engineer,Confidential -,New Cairo, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Electrical Maintenance Engineer,Saudi German Hospital  -,New Nozha, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Sr. Workshop Engineer - Automotive,Nour Eldin Elsherif for Trading vehicles -,Katameya, Cairo, Egypt,Full Time,· 3 - 5 Yrs of Exp
+Senior Sales Engineer,Turbo Egypt Compression -,Heliopolis, Cairo, Egypt,Full Time,· 8 - 10 Yrs of Exp
+Production Planner engineer,HCH-Supply--Egypt -,Maadi, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Electrical Maintenance Engineer,ICON Holding -,Helwan, Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Maintenance Engineer,EtalexMetal -,New Nozha, Cairo, Egypt,Full Time,· 8+ Yrs of Exp
+Electrical Service Engineer,MCV -,Cairo, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Technical Sales Engineer - Water Pumps,OYA ENERGY  -,Sheikh Zayed, Giza, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Senior Mechanical Technical Office Engineer,Value Development -,New Cairo, Cairo, Egypt,Full Time,· 7 - 10 Yrs of Exp
+Senior Mechanical Site Engineer,Value Development -,New Cairo, Cairo, Egypt,Full Time,· 7 - 10 Yrs of Exp
+Production Engineer-Sheet Metal,Confidential -,Abu Rawash, Giza, Egypt,Full Time,· 3 - 10 Yrs of Exp
+Senior Commissioning Engineer,IETOS -,Sheraton, Cairo, Egypt,Full Time,· 4 - 6 Yrs of Exp
+Electrical Engineer – Tenders & BLC Systems,Falcon Misr  -,Wadi Alnatrun, Beheira, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Industrial Quality Engineer,Prometeon tyres group – Egypt -,Ameria, Alexandria, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Electrical Maintenance Engineer,Prometeon tyres group – Egypt -,Ameria, Alexandria, Egypt,Full Time,· 1 - 3 Yrs of Exp
+Senior Plumbing &Fire Fighting Engineer,Afniah Consulting Engineering  -,Heliopolis, Cairo, Egypt,Full Time,· 10 - 15 Yrs of Exp
+Facility Maintenance Engineer,Confidential -,Obour City, Cairo, Egypt,Full Time,· 6 - 10 Yrs of Exp
+Electrical Maintenance and Automation Engineer,ABCO Group  -,Bourj Alarab, Alexandria, Egypt,Full Time,· 3 - 6 Yrs of Exp
+Senior Procurement Engineer- Electrical,EEC Group -,Sheraton, Cairo, Egypt,Full Time,· 5 - 7 Yrs of Exp
+Tendering Engineer – Electrical,EEC Group -,Sheraton, Cairo, Egypt,Full Time,· 2 - 4 Yrs of Exp
+Sales Engineer – Contracting Company,Global Contracting & Steel Structure -,Cairo, Egypt,Full Time,· 3 - 7 Yrs of Exp
+Maintenance Engineer,Cairo Three A  Poultry  -,New Cairo, Cairo, Egypt,Full Time,· 2 - 5 Yrs of Exp
+Technical Office Engineer - Infrastructure,Infracon -,Future City, Cairo, Egypt,Full Time,· 5 - 10 Yrs of Exp
+Quality Assurance Engineer,Egybell -,10th of Ramadan City, Cairo, Egypt,Freelance / Project,· 2 - 4 Yrs of Exp
+Junior Planning Engineer,Melco-Mec Egypt for Elevators & Escalators - Mitsubishi -,Dokki, Giza, Egypt,Full Time,· 0 - 2 Yrs of Exp
